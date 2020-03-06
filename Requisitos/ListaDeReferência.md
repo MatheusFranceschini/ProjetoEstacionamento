@@ -18,4 +18,5 @@ Concorrentes
     - Abertura e Fechamento de Caixa
     - Cupons de Desconto
     - Cadastro de avarias pré-existentes
+    URL: https://easyparkapp.com/
   
